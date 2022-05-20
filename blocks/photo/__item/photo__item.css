@@ -1,0 +1,29 @@
+.photo__item {
+  width: 100%; 
+  max-height: 213px; 
+  object-fit: cover;
+}
+
+@media (max-width: 1279px) {
+  
+  .photo__item {
+    max-height: 225px;
+  }
+  
+}
+  
+@media (max-width: 1023px) {
+    
+  .photo__item {
+    max-height: 264px;
+  }
+    
+}
+  
+  @media (max-width: 424px) {
+    
+  .photo__item {
+    max-height: 216px;
+  }
+      
+}

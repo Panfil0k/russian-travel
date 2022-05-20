@@ -1,0 +1,16 @@
+.header__lang-link_active::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  border-bottom: 2px solid #fff;
+}
+
+@media (max-width: 424px) {
+  
+    .header__lang-link_active::before {
+        border-bottom: 1px solid #fff;  
+  }
+
+}
