@@ -1,0 +1,21 @@
+.places__item-url-text {
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration: none;
+  position: relative;
+  transition: opacity .5s;
+}
+
+.places__item-url-text::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 100%;
+  border-bottom: 1px solid #fff;  
+}
+
+.places__item-url-text:hover {
+  opacity: 0.8;
+}

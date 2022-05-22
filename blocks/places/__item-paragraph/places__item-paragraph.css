@@ -1,0 +1,25 @@
+.places__item-paragraph {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.63;
+}
+
+.places__item-paragraph ~ .places__item-paragraph {
+    margin-top: 25px;
+}
+
+@media (max-width: 1023px) {
+  
+  .places__item-paragraph {
+    font-size: 16px;  
+  }
+        
+}
+
+@media (max-width: 767px) {
+  
+  .places__item-paragraph {
+    padding: 0 16px;  
+  }
+      
+}

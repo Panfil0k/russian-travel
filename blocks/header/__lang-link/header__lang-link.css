@@ -2,6 +2,8 @@
   position: relative;
   font-size: 24px;
   line-height: 1.6;  
+  text-decoration: none;
+  color: #fff;
 }
 
 .header__lang-link:first-child {
