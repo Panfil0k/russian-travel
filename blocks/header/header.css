@@ -1,5 +1,5 @@
 .header {
-  display: flex;  
+  display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-end;
@@ -10,7 +10,7 @@
 @media (max-width: 1279px) {
   
   .header {  
-    margin: 28px 0 48px 0; 
+    margin: 28px 0 48px 0;
   }
   
 }
@@ -18,7 +18,7 @@
 @media (max-width: 1023px) {
   
   .header {  
-    padding: 0 24px;  
+    padding: 0 24px;
   }
 
 }
@@ -26,8 +26,8 @@
 @media (max-width: 424px) {
   
   .header {  
-    margin: 16px 0 48px 0;  
-    padding: 0 16px;  
+    margin: 16px 0 48px 0;
+    padding: 0 16px;
   }
     
 }
