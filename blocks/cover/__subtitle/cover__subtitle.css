@@ -1,6 +1,6 @@
 .cover__subtitle {
   margin: 0;
-  z-index: 2;  
+  z-index: 2;
   font-size: 18px;
   line-height: 1.22;
   text-align: center;
@@ -11,7 +11,7 @@
   
   .cover__subtitle {
     font-size: 14px;
-    line-height: 1.14; 
+    line-height: 1.14;
   }
       
 }

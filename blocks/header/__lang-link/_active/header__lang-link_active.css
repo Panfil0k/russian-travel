@@ -14,7 +14,7 @@
 @media (max-width: 424px) {
   
     .header__lang-link_active::before {
-        border-bottom: 1px solid #fff;  
+        border-bottom: 1px solid #fff;
   }
 
 }

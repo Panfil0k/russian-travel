@@ -1,6 +1,6 @@
 .photo {
   padding: 0 48px;
-  display: grid;  
+  display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 16px;
 }

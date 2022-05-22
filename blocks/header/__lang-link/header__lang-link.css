@@ -1,14 +1,14 @@
 .header__lang-link {
   position: relative;
   font-size: 24px;
-  line-height: 1.6;  
+  line-height: 1.6;
   text-decoration: none;
   color: #fff;
   transition: opacity .5s;
 }
 
 .header__lang-link:first-child {
-  margin-right: 14px;  
+  margin-right: 14px;
 }
 
 .header__lang-link:hover {
@@ -19,7 +19,7 @@
   
     .header__lang-link {
       font-size: 18px;
-      line-height: 1.7;  
+      line-height: 1.7;
   }
 
 }

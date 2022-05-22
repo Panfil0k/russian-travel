@@ -1,5 +1,5 @@
 .places__item-url {
-  align-self: end; 
+  align-self: end;
   grid-area: url;
   display: flex;
   flex-direction: column;
@@ -9,7 +9,7 @@
 @media (max-width: 767px) {
   
   .places__item-url {
-    margin: 0 16px;  
+    margin: 0 16px;
   }
     
 }
