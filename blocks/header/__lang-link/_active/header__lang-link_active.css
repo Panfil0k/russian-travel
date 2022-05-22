@@ -1,3 +1,7 @@
+.header__lang-link_active {
+  pointer-events: none;
+}
+
 .header__lang-link_active::before {
   content: '';
   display: block;
