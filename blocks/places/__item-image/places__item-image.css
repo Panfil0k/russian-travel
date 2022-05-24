@@ -1,8 +1,9 @@
 .places__item-image {
-  grid-area: image;
-  align-self: start;
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  padding-bottom: 100%;
-  background-size: cover;
-  background-position: center;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }

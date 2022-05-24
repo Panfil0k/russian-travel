@@ -7,10 +7,6 @@
   transition: opacity .5s;
 }
 
-.header__lang-link:first-child {
-  margin-right: 14px;
-}
-
 .header__lang-link:hover {
   opacity: 0.8;
 }
